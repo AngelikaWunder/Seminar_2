@@ -1,0 +1,15 @@
+C:\Users\Angelika\Documents\Copydata 2022\Geekbrain\Курс 3 Знакомство с языками пр\Seminar_2\Seminar_2_Task_16\bin\Debug\net6.0\Seminar_2_Task_16.exe
+C:\Users\Angelika\Documents\Copydata 2022\Geekbrain\Курс 3 Знакомство с языками пр\Seminar_2\Seminar_2_Task_16\bin\Debug\net6.0\Seminar_2_Task_16.deps.json
+C:\Users\Angelika\Documents\Copydata 2022\Geekbrain\Курс 3 Знакомство с языками пр\Seminar_2\Seminar_2_Task_16\bin\Debug\net6.0\Seminar_2_Task_16.runtimeconfig.json
+C:\Users\Angelika\Documents\Copydata 2022\Geekbrain\Курс 3 Знакомство с языками пр\Seminar_2\Seminar_2_Task_16\bin\Debug\net6.0\Seminar_2_Task_16.dll
+C:\Users\Angelika\Documents\Copydata 2022\Geekbrain\Курс 3 Знакомство с языками пр\Seminar_2\Seminar_2_Task_16\bin\Debug\net6.0\Seminar_2_Task_16.pdb
+C:\Users\Angelika\Documents\Copydata 2022\Geekbrain\Курс 3 Знакомство с языками пр\Seminar_2\Seminar_2_Task_16\obj\Debug\net6.0\Seminar_2_Task_16.csproj.AssemblyReference.cache
+C:\Users\Angelika\Documents\Copydata 2022\Geekbrain\Курс 3 Знакомство с языками пр\Seminar_2\Seminar_2_Task_16\obj\Debug\net6.0\Seminar_2_Task_16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelika\Documents\Copydata 2022\Geekbrain\Курс 3 Знакомство с языками пр\Seminar_2\Seminar_2_Task_16\obj\Debug\net6.0\Seminar_2_Task_16.AssemblyInfoInputs.cache
+C:\Users\Angelika\Documents\Copydata 2022\Geekbrain\Курс 3 Знакомство с языками пр\Seminar_2\Seminar_2_Task_16\obj\Debug\net6.0\Seminar_2_Task_16.AssemblyInfo.cs
+C:\Users\Angelika\Documents\Copydata 2022\Geekbrain\Курс 3 Знакомство с языками пр\Seminar_2\Seminar_2_Task_16\obj\Debug\net6.0\Seminar_2_Task_16.csproj.CoreCompileInputs.cache
+C:\Users\Angelika\Documents\Copydata 2022\Geekbrain\Курс 3 Знакомство с языками пр\Seminar_2\Seminar_2_Task_16\obj\Debug\net6.0\Seminar_2_Task_16.dll
+C:\Users\Angelika\Documents\Copydata 2022\Geekbrain\Курс 3 Знакомство с языками пр\Seminar_2\Seminar_2_Task_16\obj\Debug\net6.0\refint\Seminar_2_Task_16.dll
+C:\Users\Angelika\Documents\Copydata 2022\Geekbrain\Курс 3 Знакомство с языками пр\Seminar_2\Seminar_2_Task_16\obj\Debug\net6.0\Seminar_2_Task_16.pdb
+C:\Users\Angelika\Documents\Copydata 2022\Geekbrain\Курс 3 Знакомство с языками пр\Seminar_2\Seminar_2_Task_16\obj\Debug\net6.0\Seminar_2_Task_16.genruntimeconfig.cache
+C:\Users\Angelika\Documents\Copydata 2022\Geekbrain\Курс 3 Знакомство с языками пр\Seminar_2\Seminar_2_Task_16\obj\Debug\net6.0\ref\Seminar_2_Task_16.dll
