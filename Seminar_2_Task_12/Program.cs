@@ -7,9 +7,14 @@
 Console.Clear();
 Console.Write("Введите двузначное число а");
 int a = int.Parse(Console.ReadLine()!);
-
+Console.Write("Введите двузначное число b");
+int b = int.Parse(Console.ReadLine()!);
 int c = a % b;
-
 if (c == 0)
-{Console.WriteLine("кратно");
+{
+    Console.WriteLine("кратно");
+}
+else
+{
+    Console.WriteLine($"не кратно, остаток {c}");
 }
